@@ -30,18 +30,13 @@ Ana sayfanın aşağı kısmı.
 
 <br>
 
-![anasayfascrollbeyaz](https://github.com/user-attachments/assets/e4f8c169-2822-44c6-b357-980d9cdcbdf7)
-Ana sayfanın aşağı kısmının beyaz hali.
-
-<br>
-
-![hover](https://github.com/user-attachments/assets/723137dc-d7c3-4d58-8e7e-d1667c27d46b)
+![hover](https://github.com/user-attachments/assets/723137dc-d7c3-4d58-8e7e-d1667c27d46b)    
 Filmin üzerine gelince böyle gözükür.
 
 <br>
 
-![hover2](https://github.com/user-attachments/assets/ec63e059-8c95-4062-8ff6-6e2b9b2fd196)
- Artı işaretine basarak filmi Listem kısmına kaydedebilirsiniz.
+![hover2](https://github.com/user-attachments/assets/ec63e059-8c95-4062-8ff6-6e2b9b2fd196)    
+Artı işaretine basarak filmi Listem kısmına kaydedebilirsiniz.
 
 <br>
 
@@ -50,18 +45,8 @@ Filmler kısmı.
 
 <br>
 
-![filmlerbeyaz](https://github.com/user-attachments/assets/47eb3d14-3db5-466b-b0d0-5472fe8c3dcb)
-Filmler kısmının beyaz hali.
-
-<br>
-
 ![arama](https://github.com/user-attachments/assets/62be1b46-e52a-478f-8ef8-eb88d03cfb8f)
 Film aratabilirsiniz.
-
-<br>
-
-![arama2](https://github.com/user-attachments/assets/066b430b-5837-4d6d-b10e-ecc059103900)
-Film aratmanın beyaz modu.
 
 <br>
 
@@ -70,25 +55,35 @@ Diziler kısmı.
 
 <br>
 
-![diziler2](https://github.com/user-attachments/assets/9660c67a-2443-43b6-ab1b-8ca22cf66fb6)
-Diziler kısmının beyaz hali.
-
-<br>
-
 ![listem](https://github.com/user-attachments/assets/00fd0dcd-5b0b-425a-b6fb-3658878cb096)
 Listem kısmı.
 
 <br>
 
-![listem2](https://github.com/user-attachments/assets/1d3d6aae-b59a-4fde-8048-55036cd5765c)
-Listem kısmının beyaz hali.
+Sitenin beyaz modu:
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c0b3b9eb-31f5-469e-bb1e-9325bf3743f6" alt="App Screenshot" width="300">
+    </td>
+    <td>
+       <img src="https://github.com/user-attachments/assets/e4f8c169-2822-44c6-b357-980d9cdcbdf7" alt="App Screenshot" width="300">
+    </td>
+    <td>
+       <img src="https://github.com/user-attachments/assets/47eb3d14-3db5-466b-b0d0-5472fe8c3dcb" alt="App Screenshot" width="300">
+    </td>
+    <td>
+       <img src="https://github.com/user-attachments/assets/066b430b-5837-4d6d-b10e-ecc059103900" alt="App Screenshot" width="300">
+    </td>
+    <td>
+       <img src="https://github.com/user-attachments/assets/9660c67a-2443-43b6-ab1b-8ca22cf66fb6" alt="App Screenshot" width="300">
+    </td>
+    <td>
+       <img src="https://github.com/user-attachments/assets/1d3d6aae-b59a-4fde-8048-55036cd5765c" alt="App Screenshot" width="300">
+    </td>
+  </tr>
+</table>
 
+<br>
 
-
-
-
-
-
-
-
-
+Okuduğunuz için teşekkürler. Eksik kısımları belirtmekten çekinmeyin.
