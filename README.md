@@ -41,7 +41,7 @@ Filmin üzerine gelince böyle gözükür.
 <br>
 
 ![hover2](https://github.com/user-attachments/assets/ec63e059-8c95-4062-8ff6-6e2b9b2fd196)
-Artı işaretine basarak filmi Listem kısmına kaydedebilirsiniz.
+ Artı işaretine basarak filmi Listem kısmına kaydedebilirsiniz.
 
 <br>
 
